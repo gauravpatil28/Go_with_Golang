@@ -7,7 +7,6 @@ Welcome to the "Go with Golang" repository! This repository is designed to help 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
 - [License](#license)
@@ -50,30 +49,6 @@ Once you have Go installed, you can start writing your first Go program. Follow 
     ```sh
     go run hello.go
     ```
-
-## Project Structure
-
-The repository is organized as follows:
-
-learning-go/
-│
-├basics
-│hello_world.go
-│variables.go
-│functions.go
-│(other basic concepts)
-│
-├advanced/
-│concurrency/
-│goroutines.go
-│channels.go
-││
-├projects/
-│web_server/
-│main.go
-│
-└── README.md
-
 
 ## Learning Resources
 
