@@ -55,6 +55,25 @@ Once you have Go installed, you can start writing your first Go program. Follow 
 
 The repository is organized as follows:
 
+learning-go/
+│
+├basics
+│hello_world.go
+│variables.go
+│functions.go
+│(other basic concepts)
+│
+├advanced/
+│concurrency/
+│goroutines.go
+│channels.go
+││
+├projects/
+│web_server/
+│main.go
+│
+└── README.md
+
 
 ## Learning Resources
 
