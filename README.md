@@ -9,7 +9,6 @@ Welcome to the "Go with Golang" repository! This repository is designed to help 
 - [Getting Started](#getting-started)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -69,9 +68,5 @@ We welcome contributions! If you have any improvements, bug fixes, or new exampl
 3. Make your changes and commit them with a descriptive message.
 4. Push your changes to your fork.
 5. Open a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 Happy coding!
